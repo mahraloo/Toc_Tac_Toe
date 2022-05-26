@@ -1,1 +1,3 @@
-#Tic Tac Toe
+# Tic Tac Toe
+
+Android Tic Tac Toe Game multiplayer
